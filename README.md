@@ -1,5 +1,6 @@
 # Hello there 👋
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 
 ```python
@@ -22,6 +23,10 @@ class Computer_Science:
 me = Computer_Science()
 me.say_hi()
 ```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" alt="Top Languages" />
+</p>
 
 <!--
 **nragland37/nragland37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
