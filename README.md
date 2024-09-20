@@ -12,7 +12,7 @@ class Computer_Science:
         self.name = "Nick Ragland"
         self.roles = [
             "Software Engineer",
-            ""Data Analyst",
+            "Data Analyst",
             "Cybersecurity Enthusiast"
         ]
         self.degrees = [
