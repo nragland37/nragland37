@@ -10,20 +10,20 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class CompSci:
-
+class Computer_Science:
     def __init__(self):
         self.name = "Nick Ragland"
         self.roles = ["Software Engineer", "Data Analyst", "Cybersecurity Enthusiast"]
-        self.degrees = ["Computer Science (BS) with an Emphasis in Cybersecurity", "Minor in Data Analytics"]
+        self.degrees = [
+            "Computer Science (BS) with an Emphasis in Cybersecurity",
+            "Minor in Data Analytics",
+        ]
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-me = CompSci()
+me = Computer_Science()
 me.say_hi()
 ```
 
