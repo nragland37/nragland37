@@ -10,7 +10,7 @@
 class Computer_Science:
     def __init__(self):
         self.name = "Nick Ragland"
-        self.roles = ["Software Engineer", "Data Analyst", "Cybersecurity Enthusiast"]
+        self.roles = ["Software Engineer", "Data Enjoyer", "Cybersecurity Enthusiast"]
         self.degrees = [
             "Computer Science (BS) with an Emphasis in Cybersecurity",
             "Minor in Data Analytics",
