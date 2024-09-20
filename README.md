@@ -1,7 +1,38 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact)
-<br/>
-<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=nragland37&theme=dark&hide_border=true&border_radius=14.9&mode=weekly)](https://git.io/streak-stats)
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class CompSci:
+
+    def __init__(self):
+        self.name = "Nick Ragland"
+        self.roles = ["Software Engineer", "Data Analyst", "Cybersecurity Enthusiast"]
+        self.degrees = ["Computer Science (BS) with an Emphasis in Cybersecurity", "Minor in Data Analytics"]
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = CompSci()
+me.say_hi()
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nragland37&theme=calm" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 <!--
 **nragland37/nragland37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
