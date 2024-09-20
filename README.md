@@ -2,10 +2,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" alt="Top Languages" />
-</p>
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
