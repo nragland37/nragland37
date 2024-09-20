@@ -24,7 +24,7 @@ me = Computer_Science()
 me.say_hi()
 ```
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" alt="Top Languages" />
 </p>
 
