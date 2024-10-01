@@ -15,7 +15,7 @@ class Computer_Science:
             "Cybersecurity Enthusiast"
         ]
         self.degrees = [
-            "Computer Science (BS) with an Emphasis in Cybersecurity",
+            "BS, Computer Science, Emphasis in Cybersecurity",
             "Minor in Data Analytics",
         ]
         self.language_spoken = ["en_US"]
