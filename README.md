@@ -3,11 +3,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+<!--
 ![Github stats](https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm)
 
-<!--
 ```python
 class Computer_Science:
     def __init__(self):
