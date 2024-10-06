@@ -5,6 +5,9 @@
 
 ![Github stats](https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm)
+
+<!--
 ```python
 class Computer_Science:
     def __init__(self):
@@ -26,6 +29,7 @@ class Computer_Science:
 me = Computer_Science()
 me.say_hi()
 ```
+-->
 
 <!--
 **nragland37/nragland37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
