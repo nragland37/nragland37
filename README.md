@@ -10,7 +10,7 @@
 
 
 ```python
-class Computer_Science:
+class Of_May_2024_Webster-University:
     def __init__(self):
         self.name = "Nicholas Ragland"
         self.roles = [
