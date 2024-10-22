@@ -18,11 +18,14 @@ class Webster_University_2024:
             'Data Analyst',
             'Cybersecurity Enthusiast'
         ]
-        self.degrees = [
-            'BS, Computer Science, Emphasis in Cybersecurity',
-            'Minor in Data Analytics',
-        ]
-        self.country = 'United States'
+        self.degrees = {
+            'major': 'BS, Computer Science with an Emphasis in Cybersecurity',
+            'minor': 'Data Analytics'
+        }
+        self.location = {
+            'country': 'United States',
+            'city': 'St. Louis'
+        }
 
     def __str__(self):
         return 'Thanks for dropping by, hope you find some of my work interesting.'
