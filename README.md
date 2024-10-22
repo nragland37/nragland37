@@ -24,11 +24,11 @@ class Webster_University_2024:
         ]
         self.language_spoken = ["en_US"]
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def __str__(self):
+        return "Thanks for dropping by, hope you find some of my work interesting."
 
-me = Computer_Science()
-me.say_hi()
+me = Webster_University_2024()
+print(me)
 ```
 
 <!--
