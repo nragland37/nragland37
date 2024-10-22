@@ -22,7 +22,7 @@ class Webster_University_2024:
             'BS, Computer Science, Emphasis in Cybersecurity',
             'Minor in Data Analytics',
         ]
-        self.language_spoken = ['en_US']
+        self.country = 'United States'
 
     def __str__(self):
         return 'Thanks for dropping by, hope you find some of my work interesting.'
