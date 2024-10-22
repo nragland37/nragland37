@@ -12,20 +12,20 @@
 ```python
 class Webster_University_2024:
     def __init__(self):
-        self.name = "Nicholas Ragland"
+        self.name = 'Nicholas Ragland'
         self.roles = [
-            "Software Engineer",
-            "Data Analyst",
-            "Cybersecurity Enthusiast"
+            'Software Engineer',
+            'Data Analyst',
+            'Cybersecurity Enthusiast'
         ]
         self.degrees = [
-            "BS, Computer Science, Emphasis in Cybersecurity",
-            "Minor in Data Analytics",
+            'BS, Computer Science, Emphasis in Cybersecurity',
+            'Minor in Data Analytics',
         ]
-        self.language_spoken = ["en_US"]
+        self.language_spoken = ['en_US']
 
     def __str__(self):
-        return "Thanks for dropping by, hope you find some of my work interesting."
+        return 'Thanks for dropping by, hope you find some of my work interesting.'
 
 me = Webster_University_2024()
 print(me)
