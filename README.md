@@ -8,11 +8,12 @@
 </a>
 
 <!--
--->
 
 <a href="https://github.com/nragland37">
   <img src="https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&show_icons=true&bg_color=00000000&title_color=ffffff&border_color=00000000" />
 </a>
+
+-->
 
 
 ```python
