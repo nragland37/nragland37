@@ -13,18 +13,10 @@
 class Webster_University_2024:
     def __init__(self):
         self.name = 'Nicholas Ragland'
-        self.roles = [
-            'Software Engineer',
-            'Data Analyst',
-            'Cybersecurity Enthusiast'
-        ]
+        self.roles = ['Software Engineer', 'Cybersecurity Specialist', 'Data Analyst']
         self.degrees = {
-            'major': 'BS, Computer Science with an Emphasis in Cybersecurity',
+            'major': 'BSc, Computer Science with an Emphasis in Cybersecurity',
             'minor': 'Data Analytics'
-        }
-        self.location = {
-            'country': 'United States',
-            'city': 'St. Louis'
         }
 
     def __str__(self):
