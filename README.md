@@ -5,9 +5,8 @@
 
 <!--
 ![Github stats](https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&&show_icons=true)
--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm)
-
+-->
 
 ```python
 class Webster_University_2024:
@@ -15,12 +14,12 @@ class Webster_University_2024:
         self.name = 'Nicholas Ragland'
         self.roles = ['Software Engineer', 'Cybersecurity Specialist', 'Data Analyst']
         self.degrees = {
-            'major': 'BSc, Computer Science with an Emphasis in Cybersecurity',
+            'major': 'BS, Computer Science with an Emphasis in Cybersecurity',
             'minor': 'Data Analytics'
         }
 
     def __str__(self):
-        return 'Thanks for dropping by, hope you find some of my work interesting.'
+        return 'Thanks for dropping by, hope you find some of my work interesting'
 
 me = Webster_University_2024()
 print(me)
