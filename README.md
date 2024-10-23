@@ -3,18 +3,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+<a href="https://github.com/nragland37">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=dark&langs_count=20&bg_color=00000000&hide=html,css&title_color=ffffff&border_color=00000000" />
+</a>
+
 <!--
 -->
-<p>
-  <a href="https://github.com/nragland37">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" width="420" height="165">
-  </a>
-  <!--
-  <a href="https://github.com/nragland37">
-    <img src="https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&show_icons=true" width="420" height="165" />
-  </a>
-  -->
-</p>
+
+<a href="https://github.com/nragland37">
+  <img src="https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=dark&show_icons=true&bg_color=00000000&title_color=ffffff&border_color=00000000" />
+</a>
+
 
 ```python
 class Webster_University_2024:
