@@ -5,8 +5,8 @@
 
 <!--
 -->
-![Github stats](https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm)
+![Github stats](https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&&show_icons=true)
 
 
 ```python
