@@ -5,7 +5,7 @@
 
 <!--
 -->
-<p align="center">
+<p>
   <a href="https://github.com/nragland37">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=calm" width="420" height="165" />
   </a>
