@@ -5,7 +5,7 @@
 
 <a href="https://github.com/nragland37">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nragland37&layout=compact&theme=transparent&langs_count=10&bg_color=00000000&hide=html,css&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=86400" />
-</a>
+</a> 
 
 <!--
 
