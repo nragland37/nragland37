@@ -19,7 +19,7 @@
 class Webster_University_2024:
     def __init__(self):
         self.name = 'Nicholas Ragland'
-        self.roles = ['Software Engineer', 'Cybersecurity Specialist', 'Data Analyst']
+        self.roles = ['Software Engineer', 'Cybersecurity Specialist', 'Data Analyst', 'Full Stack Developer']
         self.degrees = {
             'major': 'BS, Computer Science with an Emphasis in Cybersecurity',
             'minor': 'Data Analytics'
