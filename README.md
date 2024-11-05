@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2500&pause=300&color=19F9D8&background=2F3338&center=true&vCenter=true&width=375&lines=Hello.;Welcome+to+my+GitHub.)](https://git.io/typing-svg) &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2500&pause=750&color=19F9D8&background=0E1116&center=true&vCenter=true&width=175&lines=Hi+there.)](https://git.io/typing-svg) &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -8,13 +8,12 @@
 </a> 
 
 <!--
-
 <a href="https://github.com/nragland37">
   <img src="https://github-readme-stats-i6qf-guerraps-projects.vercel.app/api?username=nragland37&theme=calm&show_icons=true&bg_color=00000000&title_color=ffffff&border_color=00000000" />
 </a>
-
 -->
 
+<!--
 ```python
 class Webster_University_2024:
     def __init__(self):
@@ -31,6 +30,7 @@ class Webster_University_2024:
 me = Webster_University_2024()
 print(me)
 ```
+-->
 
 <!--
 **nragland37/nragland37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
