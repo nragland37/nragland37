@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2600&pause=1250&color=19F9D8&background=2F3338&center=true&vCenter=true&width=180&height=50&lines=%5C+Hi_there)](https://git.io/typing-svg) &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2500&pause=300&color=19F9D8&background=2F3338&center=true&vCenter=true&width=375&lines=Hello.;Welcome+to+my+GitHub.)](https://git.io/typing-svg) &nbsp; <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
