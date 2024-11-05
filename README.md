@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2500&pause=350&color=19F9D8&background=2F3338&center=true&vCenter=true&width=450&height=35&lines=Hi+there;%5C+Software+Engineer;%5C+Cybersecurity+Specialist;%5C+Data+Analyst;%5C+Full+Stack+Developer)](https://git.io/typing-svg) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&letterSpacing=0.2em&duration=2500&pause=300&color=19F9D8&background=2F3338&center=true&vCenter=true&width=450&height=45&lines=Hi+there;%5C+Software+Engineer;%5C+Cybersecurity+Specialist;%5C+Data+Analyst;%5C+Full+Stack+Developer)](https://git.io/typing-svg) <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nragland37.nragland37)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
